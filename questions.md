@@ -50,3 +50,17 @@ Lab Cycle - 2
 10. Write a program to implement various low-pass or smoothening frequency domain filters.
 11. Write a program to implement various high-pass or sharpening frequency domain filters.
 12. Write a program to detect straight lines using horizontal, vertical and diagonal filter masks.
+
+Lab Cycle - 3
+
+1. Write a program which restores a degraded image using direct inverse filtering.
+2. Write a program for implementing Wiener filtering for linear image restoration using
+   (a) a constant ratio
+   (b) auto correlation function.
+3. Write a program to convert an RGB color space to HSI. Display the Hue image, Saturation image and the Intensity image.
+4. Write a program to histogram equalize the Intensity component of a color image and get a new HSI image. Convert the new HSI image back to RGB.
+5. Write a program to detect the line segments in a binary image using Hough Transform.
+6. Consider an image composed of small, non overlapping blobs. Write a program to segment the blobs based on thresholding.
+7. Consider an image composed of small, non overlapping blobs. Write a program to segment the blobs based on region growing.
+8. Write a program to implement the split and merge procedure for segmenting the image with different values for minimum dimensions of the quad-tree regions.
+9. Consider a binary image composed of small blobs. Write a program to segment the blobs using watershed transform.
