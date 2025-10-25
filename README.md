@@ -66,6 +66,8 @@
 8. Write a program to implement the split and merge procedure for segmenting the image with different values for minimum dimensions of the quad-tree regions.
 9. Consider a binary image composed of small blobs. Write a program to segment the blobs using watershed transform.
 
+# Lab Cycle - 4
+
 # Optical Flow and Block Matching Algorithm
 
 <!-- Dataset: All experiments use the KITTI Stereo 2015 / Flow 2015 / Scene Flow 2015 dataset, using grayscale images from the image_2 folder of any sequence. -->
